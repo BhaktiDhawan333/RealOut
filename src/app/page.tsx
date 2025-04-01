@@ -104,6 +104,8 @@ export default function Home() {
     // router.replace("/")
   };
 
+  // I'm awesome
+
   return (
     <div className="min-h-screen bg-gray-50">
       {/* Navigation Bar */}
